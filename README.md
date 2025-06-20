@@ -25,7 +25,7 @@ Once Upon a Code: Malaysian Legends Reimagined
 
 Project Repository
 
-https://github.com/aidilmuz/ComfyUI.git
+https://github.com/aidilmuz/A1D1L-Project/tree/main
 
 Video Link
 
